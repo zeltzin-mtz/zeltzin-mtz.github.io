@@ -10,7 +10,7 @@ My github page is http://github.com/zeltzin-mtz
 
 * Lab 1
 
-    Lab 1, was a favorite because I had very little experience using linux and I feel that being able to use basic linux commands is important in the computer science field. This lab allowed me to get a lot more practice and now I feel comfortable navigating through a terminal, as well as comfortable using basic linux commands.
+    Lab 1 was a favorite because I had very little experience using linux and I feel that being able to use basic linux commands is important in the computer science field. This lab allowed me to get a lot more practice and now I feel comfortable navigating through a terminal, as well as comfortable using basic linux commands.
 
 * Lab 3
 
