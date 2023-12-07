@@ -18,4 +18,4 @@ My github page is http://github.com/zeltzin-mtz
 
 * Lab 4
 
-    Lab 4 was a favorite because it allowed me to practice calling frunctions from one file to another. I was also able to use arithmetic operators in this lab which I had not been able to use much previously. Lastly, in part-2 I was able to use if-else statements to make a game which allowed me to use coding for something fun.
+    Lab 4 was a favorite because it allowed me to practice calling functions from one file to another. I was also able to use arithmetic operators in this lab which I had not been able to use much previously. Lastly, in part-2 I was able to use if-else statements to make a game which allowed me to use coding for something fun.
