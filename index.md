@@ -24,4 +24,4 @@ My github page is http://github.com/zeltzin-mtz
 
 * DuoCode
 
-    DuoCode is my senior capstone, it is by far my favorite project. I developed a full-stack application using React and Llama AI to translate JavaScript into C++. I implemented AI-generated quiz features to encourage C++ syntax learning and to track user progress through "levels" as well as achievements.
+    DuoCode is my senior capstone, it is by far my favorite project. I developed a full-stack application using React and Llama AI to translate JavaScript into C++. I implemented AI-generated quiz features to encourage C++ syntax learning and to track user progress through "levels" as well as achievements. I had a lot of fun coming up with the idea in CPSC 490 as well as actually implementing the application in CPSC 491.
