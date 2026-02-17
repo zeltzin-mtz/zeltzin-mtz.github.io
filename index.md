@@ -19,3 +19,9 @@ My github page is http://github.com/zeltzin-mtz
 * Lab 4
 
     Lab 4 was a favorite because it allowed me to practice calling functions from one file to another. I was also able to use arithmetic operators in this lab which I had not been able to use much previously. Lastly, in part-2 I was able to use if-else statements to make a game which allowed me to use coding for something fun.
+
+### CPSC 490 & 491
+
+* DuoCode
+
+    DuoCode is my senior capstone, it is by far my favorite project. I developed a full-stack application using React and Llama AI to translate JavaScript into C++. I implemented AI-generated quiz features to encourage C++ syntax learning and to track user progress through "levels" as well as achievements.
